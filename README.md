@@ -1,2 +1,1 @@
-cp2014y5python
-==============
+2014 DHS Computing Practical
